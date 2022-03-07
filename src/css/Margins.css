@@ -1,0 +1,31 @@
+
+.listingBanner{
+	margin-bottom: 60px;
+}
+.filters{
+	margin-bottom: 32px;
+}
+.tagGroup{
+	margin-bottom: 40px;
+}
+.pagination{
+	margin-bottom: 80px;
+}
+.FAQ{
+	margin-bottom: 80px;
+}
+
+
+@media screen and (max-width: 1024px) {
+	.listingBanner{
+		margin-bottom: 40px;
+	}
+}
+@media screen and (max-width: 768px) {
+
+}
+@media screen and (max-width: 320px) {
+	.listingBanner{
+		margin-bottom: 32px;
+	}
+}

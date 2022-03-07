@@ -1,0 +1,20 @@
+.filters__search-wrapper{
+	width: 50%;
+}
+.filters__categories{
+	width: 50%;
+}
+.filters__toggle{
+	padding: 10px;
+	display: none;
+}
+.categories{
+	width: 45%;
+	margin-left: 16px;
+}
+.categories__view{
+	padding: 10px 10px;
+	background-color: #fff;
+	border: 1px solid var(--content300);
+	border-radius: 8px;
+}

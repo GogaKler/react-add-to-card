@@ -1,0 +1,27 @@
+.middleHeader{
+	border-bottom: 1px solid var(--content200);
+}
+.middleHeader__row{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 24px 0;
+}
+.geo{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.geo__desc{
+	margin-left: 8px;
+	color: var(--content500);
+	font-size: 14px;
+}
+.middleHeader__icons-wrapper{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.middleHeader__icons-wrapper img{
+	margin-right: 40px;
+}

@@ -1,0 +1,14 @@
+.topMenu{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.topMenu__item{
+	display: inline-block;
+	margin: 20px 0;
+}
+.topMenu__link{
+	font-weight: 600;
+	color: var(--content600);
+	padding: 20px 0;
+}

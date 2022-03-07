@@ -1,0 +1,29 @@
+
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 768px) {
+	.footer{
+		margin-bottom: 63px;
+	}
+	.footer__left-column{
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.footer__right-column{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 320px) {
+	.footer__body{
+		padding: 0;
+	}
+	.footer__list:first-child{
+		padding: 32px 20px 32px 20px;
+	}
+	.footer__list{
+		padding: 0 20px 32px 20px;
+	}
+}
+
+

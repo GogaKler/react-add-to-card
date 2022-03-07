@@ -1,0 +1,22 @@
+.banner{
+	background-color: var(--primary600);
+	padding: 8px 24px;
+	margin: 0 8px;
+	border-radius: 5px;
+}
+.banner__wrapper{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.banner__desc-wrapper{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.banner__desc{
+	color: white;
+	margin-right: 2px;
+	line-height: 20px;
+}

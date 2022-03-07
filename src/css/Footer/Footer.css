@@ -1,0 +1,33 @@
+.footer{
+	background-color: var(--content800);
+}
+.footer__head{
+	padding: 42px 0;
+	border-bottom: 1px solid #D0D5DD50;
+}
+.footer__left-column{
+	width: 50%;
+}
+.footer__right-column{
+	width: 50%;
+}
+.footer__search input{
+	padding: 10px 8px;
+}
+.footer__search{
+	padding: 0;
+	width: 100%;
+	margin-right: 8px;
+}
+.footer__body{
+	margin: 0 -20px;
+	padding: 56px 0;
+}
+.footer__list{
+	padding: 0 20px;
+	flex: 1 0 25%;
+}
+.footer__list-item{
+	color: var(--content100);
+	line-height: 24px;
+}

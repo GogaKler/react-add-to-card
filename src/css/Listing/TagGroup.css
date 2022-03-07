@@ -1,0 +1,9 @@
+.tagGroup{
+	width: 100%;
+	overflow: hidden;
+	overflow-x: scroll;
+}
+.tagGroup::-webkit-scrollbar {
+	width: 0! important;
+	height: 0! important;
+}

@@ -1,0 +1,27 @@
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 768px) {
+	.banner{
+		padding: 8px 8px;
+	}
+	.banner__desc{
+		font-size: 14px;
+	}
+	.middleHeader__row{
+		justify-content: center;
+		margin: 15px 0;
+	}
+	.geo{
+		display: none;
+	}
+	.middleHeader__icons-wrapper{
+		display: none;
+	}
+	.header__navigation{
+		display: none;
+	}
+}
+@media screen and (max-width: 320px) {
+
+}

@@ -1,0 +1,52 @@
+:root{
+	/* primary */
+	--primary25: #FCFAFF;
+	--primary50: #F9F5FF;
+	--primary100: #F4EBFF;
+	--primary200: #D6BBFB;
+	--primary300: #D6BBFB;
+	--primary400: #B692F6;
+	--primary500: #7F56D9;
+	--primary600: #7F56D9;
+	--primary700: #6941C6;
+	--primary800: #53389E;
+	--primary900: #42307D;
+	/* content */
+	--content25: #FCFCFD;
+	--content50: #F9FAFB;
+	--content100: #F2F4F7;
+	--content200: #EAECF0;
+	--content300: #D0D5DD;
+	--content400: #98A2B3;
+	--content500: #667085;
+	--content600: #475467;
+	--content700: #344054;
+	--content800: #1D2939;
+	--content900: #101828;
+	/* destructive-color */
+	--dest200: #FECDC9;
+	--dest600: #D92D20;
+	--dest700: #B32318;
+	/* yellow */
+	--yellow300: #FEC84B;
+	/* lime */
+	--lime500: #669F2A;
+	/* red */
+	--red50: #FFF1F3;
+	--red600: #E31B53;
+	/* orange */
+	--orange50: #FFFAEB;
+	--orange600: #DC6803;
+	/* green */
+	--green50: #ECFDF3;
+	--green600: #039855;
+	/* gray */
+	--gray50: #F6F6EA;
+	--gray600: #57534E;
+	/* blue */
+	--blue50: #F0F9FF;
+	--blue600: #0086C9;
+	/* transition */
+	--transintion: 0.40s ease-out;
+	--transintion-fast: 0.2s ease-out;
+}

@@ -1,0 +1,9 @@
+.FAQ__item{
+	border-bottom: 1px solid var(--content400);
+}
+.listMenu{
+	margin-bottom: 32px;
+}
+.listMenu__item{
+	margin-bottom: 8px;
+}
