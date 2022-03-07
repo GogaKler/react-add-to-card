@@ -1,4 +1,4 @@
-import { Container, Description, FlexContainer, SmallTitle, Title } from "../../../styled-components/Global";
+import { Container, Description, FlexContainer, Title } from "../../../styled-components/Global";
 import { Dot, MinusCircle, PlusCircle } from "../../common/Icons/Icons";
 
 const FAQ = (props) => {

@@ -1,6 +1,5 @@
 import { Button, Description, FlexContainer, Title } from "../../../styled-components/Global";
 import listingBannerImageSecond from '../../../assets/images/ImageForMainBanner.png'
-import BannerImage from '../../../assets/images/Banner.png'
 
 const ListingBanner = (props) => {
 	return (
