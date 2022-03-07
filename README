@@ -9,8 +9,6 @@ assets - исходники
 ----------------------------------------------------------------------------------------------
 		В main-reducer собраны данные категорий, группы категорий, карточек товара и 
 		!! данные загружаемой при клике карточки (cardImage, cardType и т.д c префиксом card)
-
-		Можно, конечно, добавить еще несколько фишек (preloaders, динамическую пагинацию и т.д).
 ----------------------------------------------------------------------------------------------
 reducers --> main-reducer ( main )
 
@@ -23,24 +21,30 @@ reducers --> main-reducer ( main )
 **** Все глобальные цвета собраны в css --> GlobalColors.css
 ***** css --> Margin.css создан исключительно для удобства хранить отсутпы главных компонент в одном месте
 --------------------------------------------------------------------------------------------------------------------
-				Header
-APP -->	Listing
-				Footer
-				DownMenu
+APP -->
+	Header
+	Listing
+	Footer
+	DownMenu
 
-						Banner
-Header -->	MiddleHeader
-						Navigation
+Header -->
+	Banner
+	MiddleHeader
+	Navigation
 
-						Breadcrumbs
-						Title (Global styleComponent)
-						ListingBanner
-						Filters --> TagCat (Category)
-Listing -->	TagGroup
-						List
-						Pagination
-						FAQ
 
-Footer --> Footer
+Listing -->
+	Breadcrumbs
+	Title (Global styleComponent)
+	ListingBanner
+	Filters --> TagCat (Category)
+	TagGroup
+	List
+	Pagination
+	FAQ
 
-DownMenu --> DownMenu
+Footer --> 
+	Footer
+
+DownMenu --> 
+	DownMenu
